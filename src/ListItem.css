@@ -1,0 +1,17 @@
+.list-item {
+    list-style-type: none;
+    padding: 20px;
+    color: #444;
+    background: transparent;
+    transition: all 0.4s linear;
+    border: 1px solid transparent;
+}
+
+.ready {
+    background: limegreen;
+    border-color: #dee;
+}
+
+.inline {
+    display: inline-block;
+}
